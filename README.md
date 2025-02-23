@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DalekKaan, an PHP programmer and exterminate.
-- 👀 I’m interested in PHP and exterminate.
-- 🌱 I’m currently learning Java, but exterminate is better when I'm using PHP. Exterminate.
+- 👋 Hi, I’m @DalekKaan, an Java/PHP programmer and exterminate.
+- 👀 I’m interested in Java and exterminate.
 - 💞️ I’m looking to collaborate on Java projects and exterminate.
 - 📫 Exterminate.
 
